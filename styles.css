@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+
+    font-size: 30px;
+    color: darkblue;
+}
+
+h2 {
+    font-size: 20px;
+    color: darkcyan;
+}
+
+p {
+    font-size: 12px;
+}
+
+ul {
+    color: brown;
+}
+
